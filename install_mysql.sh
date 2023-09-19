@@ -4,7 +4,7 @@
 #Author:            zhaoshulin
 #QQ:                483607723
 #Date:              2023-09-19
-#FileName：         install_dns.sh
+#FileName：         install_mysql.sh
 #URL:               https://zhaoshulin.top
 #Description：      The test script
 #Copyright (C):     2023 All rights reserved
