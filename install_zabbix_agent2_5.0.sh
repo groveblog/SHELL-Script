@@ -3,7 +3,7 @@
 #********************************************************************
 #Author:            wangxiaochun
 #QQ:                29308620
-#Date:              2021-01-06
+#Date:              2023-01-16
 #FileName:          install_zabbix_agent2_5.0.sh
 #URL:               http://www.wangxiaochun.com
 #Description:       The test script
