@@ -7,7 +7,7 @@
 #FileName：         install_zabbix_server.sh
 #URL:               https://zhaoshulin.top
 #Description：      The test script
-#Copyright (C):     2023 All rights reserved
+#Copyright (C):     2022 All rights reserved
 #********************************************************************
 
 ZABBIX_VER=5.0
