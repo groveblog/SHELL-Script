@@ -5,7 +5,7 @@
 #QQ:                483607723
 #Date:              2023-09-19
 #FileName：         install_dns.sh
-#URL:               https://alone8712.com
+#URL:               https://zhaoshulin.top
 #Description：      The test script
 #Copyright (C):     2023 All rights reserved
 #********************************************************************
