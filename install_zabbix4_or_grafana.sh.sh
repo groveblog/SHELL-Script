@@ -3,7 +3,7 @@
 #********************************************************************
 #Author:            zhaoshulin
 #QQ:                483607723
-#Date:              2023-09-19
+#Date:              2023-07-20
 #FileName：         install_zabbix4_or_grafana.sh
 #URL:               https://zhaoshulin.top
 #Description：      The test script
