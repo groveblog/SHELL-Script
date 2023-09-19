@@ -7,7 +7,7 @@
 #FileName：         install_jdk.sh
 #URL:               https://zhaoshulin.top
 #Description：      The test script
-#Copyright (C):     2023 All rights reserved
+#Copyright (C):     2022 All rights reserved
 #********************************************************************
 
 JDK_FILE="jdk-11.0.15.1_linux-x64_bin.tar.gz"
