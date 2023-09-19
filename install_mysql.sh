@@ -19,7 +19,7 @@ SRC_DIR=`pwd`
 MYSQL='mysql-8.0.28-linux-glibc2.12-x86_64.tar.xz'
 COLOR='echo -e \E[01;31m'
 END='\E[0m'
-MYSQL_ROOT_PASSWORD=magedu
+MYSQL_ROOT_PASSWORD=123456
 
 
 check (){
