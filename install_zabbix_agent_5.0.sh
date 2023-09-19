@@ -1,13 +1,13 @@
 #!/bin/bash
 #
 #********************************************************************
-#Author:            wangxiaochun
-#QQ:                29308620
+#Author:            zhaoshulin
+#QQ:                483607723
 #Date:              2023-01-06
 #FileName:          install_zabbix_agent2_5.0.sh
-#URL:               http://www.wangxiaochun.com
+#URL:               https://www.zhaoshulin.top
 #Description:       The test script
-#Copyright (C):     2021 All rights reserved
+#Copyright (C):     2023 All rights reserved
 #********************************************************************
 
 ZABBIX_SERVER=10.0.0.10
