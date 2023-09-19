@@ -7,11 +7,11 @@
 #FileName：       install_redis.sh
 #URL:             http://www.zhaoshulin.top
 #Description:     The test script
-#Copyright (C):   2023 All rights reserved
+#Copyright (C):   2022 All rights reserved
 #********************************************************************
 
 REDIS_VERSION=redis-7.0.3
-PASSWORD=123456
+密码=123456
 INSTALL_DIR=/apps/redis
 CPUS=`lscpu |awk '/^CPU\(s\)/{print $2}'`
 
