@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #********************************************************************
-#Author:            zhaojiusi
+#Author:            zhaoshulin
 #QQ:                483607723
 #Date:              2023-09-19
 #FileName：         install_dns.sh
