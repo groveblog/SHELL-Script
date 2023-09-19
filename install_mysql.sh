@@ -3,7 +3,7 @@
 #********************************************************************
 #Author:            zhaoshulin
 #QQ:                483607723
-#Date:              2023-09-19
+#Date:              2023-06-15
 #FileName：         install_mysql.sh
 #URL:               https://zhaoshulin.top
 #Description：      The test script
